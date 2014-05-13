@@ -11,6 +11,5 @@ public class A extends Alphabit{
 	public void print(){
 		System.out.println("A--> print()");
 		printAl();
-		
 	}
 }
